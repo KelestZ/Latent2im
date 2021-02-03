@@ -1,4 +1,6 @@
 # Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation
+![](figs/teasing.pdf)
+
 
 This is the official code base for our ICLR 2021 paper: Peiye Zhuang, Oluwasanmi Koyejo, Alexander G Schwing, [Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation](https://arxiv.org/abs/2102.01187). 
 
