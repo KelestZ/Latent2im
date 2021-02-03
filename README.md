@@ -9,3 +9,5 @@ In this repository, we propose a latent-space editing framework for semantic ima
 ### Requirements
 
 This code has been tested with Python 3.7, PyTorch 1.6, and CUDA11.0 on CentOS 7.8.2003.
+
+Code will be released soon. Urge the author to realise it if you want to see the code ASAP. 
