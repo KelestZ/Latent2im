@@ -7,15 +7,15 @@ NUM_CHANNELS = 3
 
 ## Regressor - Scene
 # reg_json = None
-# reg_path = '/home/peiye/ImageEditing/scene_regressor/checkpoint_256/500_dict.model'
+# reg_path = '/path/500_dict.model'
 ## StyleGAN2 - scene
-# g_path = '/home/peiye/ImageEditing/stylegan2-pytorch/checkpoint/190000.pt'
+# g_path = '/path/checkpoint/190000.pt'
 
 ## Regressor - ffhq
 reg_json = None
-reg_path = '/home/peiye/celeba/003_dict.model'
+reg_path = '/path/003_dict.model'
 ## StyleGAN2 - ffhq
-g_path = '/shared/rsaas/zpy/2nd_year/stylegan2_celeba/pretrained_ffhq/550000.pt'
+g_path = '/path/550000.pt'
 
 """
 If use a WGAN-GP loss (not used in the end)
