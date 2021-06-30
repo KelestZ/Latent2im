@@ -42,7 +42,7 @@ An example of face image editing using StyleGANv2:
 
 ## Applications
 
-We also verify the effacacy of our work on medical imaging such as chest X-ray images. For instance, use our model, we find latent directions for COVID-19 synpotoms on X-ray images.
+We also verify the effacacy of our work on medical imaging such as chest X-ray images. For instance, using our model, we find latent directions for COVID-19 synpotoms on X-ray images.
 ![**Figure: Visual results of COVID-19 editing ** = 100x](figs/covid.png)
 
 
