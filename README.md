@@ -14,7 +14,7 @@ This code has been tested with Python 3.7, PyTorch 1.6, and CUDA11.0 on CentOS 7
 
 An example of face image editing using StyleGANv2:
 
-1. Download the [StyleGAN2 weights](https://drive.google.com/file/d/17Xwr6UBpdkXY70EMpEGJAEX_8QfFvL8-/view?usp=sharing) pretrained on FFHQ dataset and put the file to */path/to/gan*.
+1. Download the [StyleGAN2 weights](https://drive.google.com/file/d/1PQutd-JboOCOZqmd95XWxWrO8gGEvRcO/view) pretrained on FFHQ dataset and put the file to */path/to/gan*.
 
 2. Download the [ResNet-50 classifier weights](https://drive.google.com/file/d/17Xwr6UBpdkXY70EMpEGJAEX_8QfFvL8-/view?usp=sharing) pretrained on CelebA dataset and put the file to */path/to/classifier*.
 
