@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="77165233-a10d-48c2-8f20-75b97528c7e4" name="vision">
+        <fileTransfer accessType="SFTP" host="vision-sched.cs.illinois.edu" port="22" sshConfigId="74b85688-bef2-49b6-9b6b-7b8116de0aae" sshConfig="vision">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
