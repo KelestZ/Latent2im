@@ -37,7 +37,7 @@ An example of face image editing using StyleGANv2:
         --gpu 0 --noise_seed 0 --num_samples 30 --num_panels 10 \
         --save_path_w  /path/to/model_w_10_final_walk_module.ckpt  
     ```
-6. You may also use our pretrained [meaningful latent directions](https://drive.google.com/drive/folders/1WEnwxXMNPvvKePDsDhB0hhhmyFc1g1Lr?usp=sharing). Using the above inference command, you will get editing results of one subject with linear spaced attribute steps. Example results are shown below:
+6. You may also use our pretrained [meaningful latent directions](https://drive.google.com/drive/folders/1WEnwxXMNPvvKePDsDhB0hhhmyFc1g1Lr?usp=sharing). Using the above inference command, you will get editing results of one subject with linearly spaced attribute steps. Example results are shown below:
   ![**Figure: Visual results of Smile editing **](figs/smile.png)
 
 ## Applications
