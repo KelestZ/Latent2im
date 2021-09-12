@@ -8,7 +8,7 @@ In this repository, we propose a latent-space editing framework for semantic ima
 
 ## Requirements
 
-This code has been tested with Python 3.7, PyTorch 1.6, and CUDA11.0 on CentOS 7.8.2003. Install basic Machine Learning packages such as importlib, logging, PIL, etc.
+This code has been tested with Python 3.7, PyTorch 1.6, CUDA11.0, and GCC>=4.9 on CentOS 7.8.2003. Install basic Machine Learning packages such as importlib, logging, PIL, etc.
 
 ## Get Started 
 
