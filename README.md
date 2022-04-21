@@ -40,6 +40,7 @@ An example of face image editing using StyleGANv2:
 6. You may also use our pretrained [meaningful latent directions](https://drive.google.com/drive/folders/1VpAK392i9wlP9e0u8rHfwlq1nNoj57Ku?usp=sharing). Using the above inference command, you will get editing results of one subject with linearly spaced attribute steps. Example results are shown below:
   ![**Figure: Visual results of Smile editing **](figs/smile.png)
 
+7. More pretrained models can be found [here](https://drive.google.com/drive/folders/1VpAK392i9wlP9e0u8rHfwlq1nNoj57Ku?usp=sharing).
 ## Applications
 
 We also verify the effacacy of our work on medical imaging such as chest X-ray images. For instance, using our model, we find latent directions for COVID-19 synpotoms on X-ray images.
